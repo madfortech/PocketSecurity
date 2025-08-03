@@ -1,0 +1,20 @@
+{
+    "name": "pocketphp/pocketsecurity",
+    "description": "Security library for Pocket PHP boilerplate",
+    "type": "library",
+    "require": {
+        "php": ">=8.2"
+    },
+    "authors": [
+        {
+            "name": "Himanshu Nishad"
+        }
+    ],
+    "version": "1.0.0-dev",
+    "autoload": {
+        "psr-4": {
+            "PocketSecurity\\": "src/"
+        }
+    },
+    "minimum-stability": "dev"
+}
