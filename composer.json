@@ -10,7 +10,7 @@
             "name": "Himanshu Nishad"
         }
     ],
-    "version": "1.0.1-alpha",
+
     "autoload": {
         "psr-4": {
             "PocketSecurity\\": "src/"
